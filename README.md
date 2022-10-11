@@ -1,4 +1,13 @@
-### Hi there 👋
+## :man: Hi, I am Jun Zhang. :computer: 👋
+
+*Ph.d candiadate at* <a href="http://www.cpu.edu.cn/">***CPU(China Pharmaceutical University)***</a> <img src="https://media4.giphy.com/media/StKiS6x698JAl9d6cx/giphy.gif" width="50">
+
+- 🔭 I’m currently working on NGS data analysis.
+- 🌱 I’m currently learning R language and bioinformatic skills.
+- 😄 I’m looking to develop some visualization R packgaes.
+
+[![wechat](https://img.shields.io/badge/老俊俊-微信公众号-important)](https://github.com/junjunlab/junjunlab/blob/main/a22cd9eae077d53a017ab4491d4bd1a.jpg) 
+[![planet](https://img.shields.io/badge/老俊俊-知识星球-blueviolet)](https://github.com/junjunlab/junjunlab/blob/main/2100306ebc7a602f74897db13e6b060.jpg)
 
 <!--
 **junjunlab/junjunlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
