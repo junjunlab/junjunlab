@@ -1,6 +1,6 @@
 ## :man: Hi, I am Jun Zhang. :computer: 👋
 
-*Ph.d candiadate at* <a href="http://www.cpu.edu.cn/">***CPU(China Pharmaceutical University)***</a> <img src="https://media4.giphy.com/media/StKiS6x698JAl9d6cx/giphy.gif" width="50">
+### *Ph.d candiadate at* <a href="http://www.cpu.edu.cn/">***CPU(China Pharmaceutical University)***</a> <img src="https://media4.giphy.com/media/StKiS6x698JAl9d6cx/giphy.gif" width="50">
 
 - 🔭 I’m currently working on NGS data analysis.
 - 🌱 I’m currently learning R language and bioinformatic skills.
