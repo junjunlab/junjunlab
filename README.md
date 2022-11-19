@@ -23,7 +23,8 @@
 
 ## R packages
 
-- :hamster: <a href="https://github.com/junjunlab/jjPlot">***jjPlot***</a>
+- :hamster: <a href="https://github.com/junjunlab/ClusterGVis">***ClusterGVis***</a>
+:hamster: <a href="https://github.com/junjunlab/jjPlot">***jjPlot***</a>
 :hamster: <a href="https://github.com/junjunlab/jjAnno">***jjAnno***</a>
 :hamster: <a href="https://github.com/junjunlab/transPlotR">***transPlotR***</a>
 :hamster: <a href="https://github.com/junjunlab/GseaVis">***GseaVis***</a>
