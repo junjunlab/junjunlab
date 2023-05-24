@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on NGS data analysis.
 - 🌱 I’m currently learning R/linux/python/julia languages and bioinformatic skills.
-- 😄 I’m looking forward to developing some visualization R packgaes.
+- 😄 I’m looking forward to developing some R packgaes for visualization.
 
 ## 
 
@@ -23,7 +23,8 @@
 
 ## R packages
 
-- :hamster: <a href="https://github.com/junjunlab/BioSeqUtils">***BioSeqUtils***</a>
+- :hamster: <a href="https://github.com/junjunlab/BioSeqUtils">***RiboProfiler***</a>
+:hamster: <a href="https://github.com/junjunlab/BioSeqUtils">***BioSeqUtils***</a>
 :hamster: <a href="https://github.com/junjunlab/ClusterGVis">***ClusterGVis***</a>
 :hamster: <a href="https://github.com/junjunlab/jjPlot">***jjPlot***</a>
 :hamster: <a href="https://github.com/junjunlab/jjAnno">***jjAnno***</a>
