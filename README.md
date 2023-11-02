@@ -23,7 +23,8 @@
 
 ## R packages
 
-- :hamster: <a href="https://github.com/junjunlab/BioSeqUtils">***RiboProfiler***</a>
+- :hamster: <a href="https://github.com/junjunlab/ggChIPvis">***ggChIPvis***</a>
+:hamster: <a href="https://github.com/junjunlab/RiboProfiler">***RiboProfiler***</a>
 :hamster: <a href="https://github.com/junjunlab/BioSeqUtils">***BioSeqUtils***</a>
 :hamster: <a href="https://github.com/junjunlab/ClusterGVis">***ClusterGVis***</a>
 :hamster: <a href="https://github.com/junjunlab/jjPlot">***jjPlot***</a>
