@@ -24,6 +24,7 @@
 ## R packages
 
 - :hamster: <a href="https://github.com/junjunlab/JunJunZai">***JunJunZai***</a>
+:hamster: <a href="https://github.com/junjunlab/bulkPseudotime">***bulkPseudotime***</a>
 :hamster: <a href="https://github.com/junjunlab/metaplot">***metaplot***</a>
 :hamster: <a href="https://github.com/junjunlab/ggSCvis">***ggSCvis***</a>
 :hamster: <a href="https://github.com/junjunlab/ggChIPvis">***ggChIPvis***</a>
