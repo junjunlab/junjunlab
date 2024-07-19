@@ -28,6 +28,7 @@
 :hamster: <a href="https://github.com/junjunlab/JunJunZai">***JunJunZai***</a>
 :hamster: <a href="https://github.com/junjunlab/metaplot">***metaplot***</a>
 :hamster: <a href="https://github.com/junjunlab/ggSCvis">***ggSCvis***</a>
+:hamster: <a href="https://github.com/junjunlab/ggcirclize">***ggcirclize***</a>
 :hamster: <a href="https://github.com/junjunlab/ggChIPvis">***ggChIPvis***</a>
 :hamster: <a href="https://github.com/junjunlab/RiboProfiler">***RiboProfiler***</a>
 :hamster: <a href="https://github.com/junjunlab/BioSeqUtils">***BioSeqUtils***</a>
