@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on NGS data analysis.
 - 🌱 I’m currently learning R/linux/python/julia languages and bioinformatic skills.
-- 😄 I’m looking forward to developing some R packgaes for visualization.
+- 😄 I’m looking forward to find the meaning of life.
 
 ## 
 
