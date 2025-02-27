@@ -24,7 +24,8 @@
 ## R packages
 
 
-- :hamster: <a href="https://github.com/junjunlab/ORFfinderR">***ORFfinderR***</a>
+- :hamster: <a href="https://github.com/junjunlab/riboTransVis">***riboTransVis***</a>
+:hamster: <a href="https://github.com/junjunlab/ORFfinderR">***ORFfinderR***</a>
 :hamster: <a href="https://github.com/junjunlab/bulkPseudotime">***bulkPseudotime***</a>
 :hamster: <a href="https://github.com/junjunlab/JunJunZai">***JunJunZai***</a>
 :hamster: <a href="https://github.com/junjunlab/metaplot">***metaplot***</a>
