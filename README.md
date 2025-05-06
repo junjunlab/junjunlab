@@ -6,10 +6,9 @@ I'm currently working in the field of **epigenetics** and **sequencing data anal
 
 ## 
 
-[![wechat](https://img.shields.io/badge/老俊俊-微信公众号-important)](https://github.com/junjunlab/junjunlab/blob/main/a22cd9eae077d53a017ab4491d4bd1a.jpg) 
-[![planet](https://img.shields.io/badge/老俊俊-知识星球-blueviolet)](https://github.com/junjunlab/junjunlab/blob/main/2100306ebc7a602f74897db13e6b060.jpg)
+[**Follow me on my WeChat Official Account**](https://github.com/junjunlab/junjunlab/blob/main/a22cd9eae077d53a017ab4491d4bd1a.jpg) 
 
-## Shiny tools <img src="https://media1.giphy.com/media/3onWp56oNIEHzEoPTE/200.webp" width="50">
+## Shiny tools
 
 <a href="https://mp.weixin.qq.com/s?__biz=MzkyMTI1MTYxNA==&mid=2247483697&idx=1&sn=264047d1c7a9205d39debe262978274b&chksm=c1873b40f6f0b256e118636c02d0f745cd016ffb8bc75436b8c6b6784c1927b17cdd64e1fb36&token=165425585&lang=zh_CN#rd">**shiny of pheatmap**</a>
   <a href="https://mp.weixin.qq.com/s?__biz=MzkyMTI1MTYxNA==&mid=2247483713&idx=1&sn=20bab779ddf6265b103250760e601fd6&chksm=c1873b30f6f0b226a8c94feb4929243bc147186a1f5765c4a43b78fd1fe5ff95e91562ab6591&token=165425585&lang=zh_CN#rd">**shiny of VennDiagram**</a>
