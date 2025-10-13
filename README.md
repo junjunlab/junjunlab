@@ -4,9 +4,13 @@ Hi, I'm **Jun Zhang**, a Ph.D. candidate at **China Pharmaceutical University (C
 
 I'm currently working in the field of **epigenetics** and **sequencing data analysis**. Most of my projects involve working with **ATAC-seq**, **ChIP-seq**, **MeRIP-seq**, and **Ribo-seq** data to investigate how gene expression is regulated at different layers — from chromatin accessibility to RNA modifications and translation. I love combining wet-lab insight with computational tools to dig deeper into biological questions.
 
-## Follow me
-
-[![WeChat Badge](https://img.shields.io/badge/Follow-WeChat-black?logo=wechat&logoColor=white)](https://github.com/junjunlab/junjunlab/blob/main/a22cd9eae077d53a017ab4491d4bd1a.jpg)
+## Follow my github 
+ 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junjunlab&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=junjunlab&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=junjunlab&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=junjunlab&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=junjunlab&theme=default&utcOffset=8)
 
 ## Shiny tools
 
