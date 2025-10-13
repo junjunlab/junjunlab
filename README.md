@@ -8,9 +8,8 @@ I'm currently working in the field of **epigenetics** and **sequencing data anal
  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junjunlab&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=junjunlab&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=junjunlab&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=junjunlab&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=junjunlab&theme=default&utcOffset=8)
+
 
 ## Shiny tools
 
