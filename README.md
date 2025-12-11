@@ -8,7 +8,6 @@ I'm currently working in the field of **epigenetics** and **sequencing data anal
  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junjunlab&theme=default)
 
-![JunZhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=junjunlab&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ## Shiny tools
 
