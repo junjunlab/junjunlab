@@ -1,6 +1,6 @@
 ## Welcome to my home 👋
 
-Hi, I'm **Jun Zhang**, a Ph.D. candidate at **China Pharmaceutical University (CPU)**. Currently, I'm focusing on **NGS (Next-Generation Sequencing)** data analysis and actively developing bioinformatics tools. I'm passionate about computational biology and constantly exploring new programming languages and skills including **R**, **Python**, **Julia**, and **Linux**. With curiosity at heart, I'm also on a personal journey to discover the deeper meaning of life.
+Hi, I'm **Jun Zhang**, a Ph.D at **China Pharmaceutical University (CPU)**. Currently, I'm focusing on **NGS (Next-Generation Sequencing)** data analysis and actively developing bioinformatics tools. I'm passionate about computational biology and constantly exploring new programming languages and skills including **R**, **Python**, **Julia**, and **Linux**. With curiosity at heart, I'm also on a personal journey to discover the deeper meaning of life.
 
 I'm currently working in the field of **epigenetics** and **sequencing data analysis**. Most of my projects involve working with **ATAC-seq**, **ChIP-seq**, **MeRIP-seq**, and **Ribo-seq** data to investigate how gene expression is regulated at different layers — from chromatin accessibility to RNA modifications and translation. I love combining wet-lab insight with computational tools to dig deeper into biological questions.
 
