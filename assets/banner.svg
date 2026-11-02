@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Jun Zhang - Bioinformatics">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1320"/>
+      <stop offset="55%" stop-color="#13293d"/>
+      <stop offset="100%" stop-color="#1f4068"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2E9EF7"/>
+      <stop offset="100%" stop-color="#9b5de5"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2E9EF7"/>
+      <stop offset="100%" stop-color="#9b5de5"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="280" fill="url(#bg)"/>
+
+  <!-- faint grid -->
+  <g stroke="#ffffff" stroke-opacity="0.045" stroke-width="1">
+    <path d="M0 40 H1200 M0 80 H1200 M0 120 H1200 M0 160 H1200 M0 200 H1200 M0 240 H1200"/>
+    <path d="M80 0 V280 M160 0 V280 M240 0 V280 M320 0 V280 M400 0 V280 M480 0 V280 M560 0 V280 M640 0 V280 M720 0 V280 M800 0 V280 M880 0 V280 M960 0 V280 M1040 0 V280 M1120 0 V280"/>
+  </g>
+
+  <!-- soft glow blobs -->
+  <circle cx="1060" cy="60" r="150" fill="#2E9EF7" opacity="0.10"/>
+  <circle cx="180" cy="250" r="170" fill="#9b5de5" opacity="0.10"/>
+
+  <!-- DNA helix motif -->
+  <g transform="translate(1000,140)" fill="none" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" opacity="0.75">
+    <path d="M-92,0 C -70,-72 -30,-72 0,0 C 30,72 70,72 92,0"/>
+    <path d="M-92,0 C -70,72 -30,72 0,0 C 30,-72 70,-72 92,0"/>
+    <line x1="-46" y1="-44" x2="-46" y2="44" stroke-opacity="0.35"/>
+    <line x1="0"   y1="-54" x2="0"   y2="54" stroke-opacity="0.35"/>
+    <line x1="46"  y1="-44" x2="46"  y2="44" stroke-opacity="0.35"/>
+  </g>
+
+  <!-- text -->
+  <text x="72" y="106" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="54" font-weight="700" fill="#ffffff" letter-spacing="0.5">Jun Zhang</text>
+  <text x="74" y="146" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#8fd3ff">Bioinformatics · NGS data analysis · Tool developer</text>
+  <text x="74" y="184" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#c9d6df">Epigenetics · ATAC-seq · ChIP-seq · MeRIP-seq · Ribo-seq</text>
+  <text x="74" y="224" font-family="'Fira Code', Consolas, monospace" font-size="15" fill="#9aa7b4">R  ·  Python  ·  Julia  ·  Linux  ·  @junjunlab</text>
+
+  <!-- bottom accent -->
+  <rect x="0" y="276" width="1200" height="4" fill="url(#line)"/>
+</svg>
