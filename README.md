@@ -51,30 +51,27 @@ My research focuses on **epigenetics** and **sequencing data analysis**: **ATAC-
 ## 📊 GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=junjunlab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junjunlab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=junjunlab&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjunjunlab&query=%24.public_repos&label=Repositories&color=2ea44f&style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjunjunlab&query=%24.followers&label=Followers&color=2E9EF7&style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjunjunlab&query=%24.following&label=Following&color=9b5de5&style=for-the-badge&logo=github&logoColor=white" alt="Following" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=junjunlab&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
 </div>
 
 ## 🚀 Featured projects
 
-<table>
-  <tr>
-    <td width="50%"><a href="https://github.com/junjunlab/scRNAtoolVis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=junjunlab&repo=scRNAtoolVis&theme=tokyonight&hide_border=true" alt="scRNAtoolVis" /></a></td>
-    <td width="50%"><a href="https://github.com/junjunlab/ClusterGVis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=junjunlab&repo=ClusterGVis&theme=tokyonight&hide_border=true" alt="ClusterGVis" /></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://github.com/junjunlab/GseaVis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=junjunlab&repo=GseaVis&theme=tokyonight&hide_border=true" alt="GseaVis" /></a></td>
-    <td width="50%"><a href="https://github.com/junjunlab/jjAnno"><img src="https://github-readme-stats.vercel.app/api/pin/?username=junjunlab&repo=jjAnno&theme=tokyonight&hide_border=true" alt="jjAnno" /></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://github.com/junjunlab/transPlotR"><img src="https://github-readme-stats.vercel.app/api/pin/?username=junjunlab&repo=transPlotR&theme=tokyonight&hide_border=true" alt="transPlotR" /></a></td>
-    <td width="50%"><a href="https://github.com/junjunlab/omicScope"><img src="https://github-readme-stats.vercel.app/api/pin/?username=junjunlab&repo=omicScope&theme=tokyonight&hide_border=true" alt="omicScope" /></a></td>
-  </tr>
-</table>
+| Project | What it does | Stars |
+| :-- | :-- | :-- |
+| **[scRNAtoolVis](https://github.com/junjunlab/scRNAtoolVis)** | Useful functions to make your scRNA-seq plots more cool | ![stars](https://img.shields.io/github/stars/junjunlab/scRNAtoolVis?style=flat-square&color=f5a623&label=stars) |
+| **[ClusterGVis](https://github.com/junjunlab/ClusterGVis)** | One-step cluster and visualize gene expression matrix | ![stars](https://img.shields.io/github/stars/junjunlab/ClusterGVis?style=flat-square&color=f5a623&label=stars) |
+| **[GseaVis](https://github.com/junjunlab/GseaVis)** | An R package to visualize GSEA results | ![stars](https://img.shields.io/github/stars/junjunlab/GseaVis?style=flat-square&color=f5a623&label=stars) |
+| **[jjAnno](https://github.com/junjunlab/jjAnno)** | An annotation package for ggplot | ![stars](https://img.shields.io/github/stars/junjunlab/jjAnno?style=flat-square&color=f5a623&label=stars) |
+| **[transPlotR](https://github.com/junjunlab/transPlotR)** | An elegant package to visualize gene structures | ![stars](https://img.shields.io/github/stars/junjunlab/transPlotR?style=flat-square&color=f5a623&label=stars) |
+| **[omicScope](https://github.com/junjunlab/omicScope)** | A comprehensive framework for transcriptomic data analysis | ![stars](https://img.shields.io/github/stars/junjunlab/omicScope?style=flat-square&color=f5a623&label=stars) |
 
 ## ✨ Shiny apps
 
