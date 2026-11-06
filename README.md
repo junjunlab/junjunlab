@@ -73,6 +73,14 @@ My research focuses on **epigenetics** and **sequencing data analysis**: **ATAC-
 | **[transPlotR](https://github.com/junjunlab/transPlotR)** | An elegant package to visualize gene structures | ![stars](https://img.shields.io/github/stars/junjunlab/transPlotR?style=flat-square&color=f5a623&label=stars) |
 | **[omicScope](https://github.com/junjunlab/omicScope)** | A comprehensive framework for transcriptomic data analysis | ![stars](https://img.shields.io/github/stars/junjunlab/omicScope?style=flat-square&color=f5a623&label=stars) |
 
+## 🖥️ Desktop apps
+
+| Project | What it does | Stack | Downloads |
+| :-- | :-- | :-- | :-- |
+| **[Orbit](https://github.com/junjunlab/Orbit)** | A fast, offline-first desktop genome browser — a lightweight IGV alternative. BAM/SAM, bigWig, SEG, RefSeq/GTF and vector export. No Java, no server. | `JavaScript` | ![downloads](https://img.shields.io/github/downloads/junjunlab/Orbit/total?style=flat-square&color=2ea44f&label=) |
+| **[myigv](https://github.com/junjunlab/myigv)** | An enhanced IGV fork — offline annotations, multi-gene panels, GTF gene search, BAM auto-indexing and per-panel autoscale. | `Java` | ![downloads](https://img.shields.io/github/downloads/junjunlab/myigv/total?style=flat-square&color=2ea44f&label=) |
+
+
 ## ✨ Shiny apps
 
 <table>
