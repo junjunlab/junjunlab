@@ -84,7 +84,7 @@ My research focuses on **epigenetics** and **sequencing data analysis**: **ATAC-
 
 | Project | What it does | Stack | Downloads |
 | :-- | :-- | :-- | :-- |
-| **[PaperDaily](https://github.com/junjunlab/paperDaily)** | A cross-platform paper reader for researchers — 9 fields × 99 subfields, current Cell / Nature / Science issues with covers, daily picks and followed-journal badges, saved papers readable offline. Chinese / English. | `React Native` | ![downloads](https://img.shields.io/github/downloads/junjunlab/paperDaily/total?style=flat-square&color=2ea44f&label=) |
+| **[PaperDaily](https://github.com/junjunlab/paperDaily)** | A cross-platform paper reader for researchers — 9 fields × 99 subfields, current Cell / Nature / Science issues with covers, daily picks and followed-journal badges, saved papers readable offline. Chinese / English. | <code>React&nbsp;Native</code> | ![downloads](https://img.shields.io/github/downloads/junjunlab/paperDaily/total?style=flat-square&color=2ea44f&label=) |
 
 ## ✨ Shiny apps
 
