@@ -80,6 +80,19 @@ My research focuses on **epigenetics** and **sequencing data analysis**: **ATAC-
 | **[Orbit](https://github.com/junjunlab/Orbit)** | A fast, offline-first desktop genome browser — a lightweight IGV alternative. BAM/SAM, bigWig, SEG, RefSeq/GTF and vector export. No Java, no server. | `JavaScript` | ![downloads](https://img.shields.io/github/downloads/junjunlab/Orbit/total?style=flat-square&color=2ea44f&label=) |
 | **[myigv](https://github.com/junjunlab/myigv)** | An enhanced IGV fork — offline annotations, multi-gene panels, GTF gene search, BAM auto-indexing and per-panel autoscale. | `Java` | ![downloads](https://img.shields.io/github/downloads/junjunlab/myigv/total?style=flat-square&color=2ea44f&label=) |
 
+## 📱 Mobile apps
+
+| Project | What it does | Stack | Downloads |
+| :-- | :-- | :-- | :-- |
+| **[PaperDaily](https://github.com/junjunlab/paperDaily)** | A cross-platform paper reader for researchers — 9 fields × 99 subfields, current Cell / Nature / Science issues with covers, daily picks and followed-journal badges, saved papers readable offline. Chinese / English. | `React Native` | ![downloads](https://img.shields.io/github/downloads/junjunlab/paperDaily/total?style=flat-square&color=2ea44f&label=) ![release](https://img.shields.io/github/v/release/junjunlab/paperDaily?style=flat-square&color=2E9EF7&label=) |
+
+<p align="center">
+  <a href="https://github.com/junjunlab/paperDaily/releases/latest/download/PaperDaily.apk"><b>⬇ Download APK</b></a>
+  ·
+  <a href="https://github.com/junjunlab/paperDaily/releases/latest/download/PaperDaily-unsigned.ipa">iOS (IPA, unsigned)</a>
+  ·
+  <a href="https://github.com/junjunlab/paperDaily">Source & README</a>
+</p>
 
 ## ✨ Shiny apps
 
