@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" alt="Jun Zhang, NGS data analysis and bioinformatics tools" width="100%">
+<img src="assets/banner.png" alt="Jun Zhang, NGS data analysis and bioinformatics tools" width="100%">
 
 **NGS data analysis and bioinformatics tools.**
 
